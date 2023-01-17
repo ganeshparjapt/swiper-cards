@@ -24,7 +24,7 @@ body{
 }
 .slide-card .slide-card-img-top{
     max-width: 150px;
-    border-radius: 50%;
+    border-radius: 25%;
     /* margin: 15px auto 0; */
     box-shadow: 08px;
     /* width: 100px;
@@ -53,4 +53,7 @@ body{
     font-size: 18px;
     display: flex;
     align-items: center;
+}
+.swiper-slide-active{
+    transform: scale(1.2);
 }
