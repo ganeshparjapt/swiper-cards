@@ -54,6 +54,6 @@ body{
     display: flex;
     align-items: center;
 }
-.swiper-slide-active{
+swiper-slide-active{
     transform: scale(1.2);
 }

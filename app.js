@@ -23,4 +23,5 @@ breakpoints:{
 
 },
 });
+loop:true;
 centereSlides:true
